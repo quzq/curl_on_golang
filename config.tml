@@ -1,0 +1,5 @@
+[server]
+host = "http://11.1.1.1:3000"
+tenant = "ama"
+user = "wa1"
+pass = "tt"
